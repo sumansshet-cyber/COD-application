@@ -100,3 +100,29 @@ font-size:14px;
 color:gray;
 
 }
+
+.dashboard{
+
+width:90%;
+margin:auto;
+padding:20px;
+
+}
+
+
+.card{
+
+padding:20px;
+margin-top:15px;
+
+background:white;
+
+border-radius:10px;
+
+box-shadow:0px 0px 10px lightgray;
+
+font-size:20px;
+
+text-align:center;
+
+}
